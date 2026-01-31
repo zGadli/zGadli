@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Kartik Gadagalli. I have a Bachelor's in Computer Engineering. Pursuing my Master's in Computer Science at SJSU.
+I am Kartik Gadagalli. I have a Bachelor's in Computer Engineering.
 You can contact me at: kartikgadli303@gmail.com
 
 <!--
